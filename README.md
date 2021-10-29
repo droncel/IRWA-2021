@@ -1,6 +1,8 @@
 # IRWA-2021
 Final project of Information Retrieval and Web Analytics course in Pompeu Fabra University.
 
+Find the first delivery of the project in the IRWA-2021-final-project-part-1 tag.
+
 This project is developed by group 16:
 - Martina Carrés, U162438, martina.carres01@estudiant.upf.edu
 - Begoña López, U161810, begona.lopez02@estudiant.upf.edu
