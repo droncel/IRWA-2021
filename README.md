@@ -17,6 +17,8 @@ To run the code of the first delivery of the final project, you must have instal
 - GoogleTranslator
 
 # Part 2
+Find the second delivery of the project in the IRWA-2021-final-project-part-2 tag.The code is in Indexing_Evaluation_U161820_U161810_U162438.ipynb
+
 To evaluate the search system there are two options:
 1. Evaluate yourself the relevance of the resulting tweets.
 2. Use the relevance judgement already done, which are defined as text in the notebook. You only need to copy them in a code cell.
